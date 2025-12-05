@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.btn {
+  padding: 8px 14px;
+  margin: 4px;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
+
+#commentary {
+  margin-top: 20px;
+  font-weight: bold;
+}
