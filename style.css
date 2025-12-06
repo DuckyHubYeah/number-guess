@@ -17,3 +17,10 @@ body {
   margin-top: 20px;
   font-weight: bold;
 }
+
+.history-btn {
+  margin: 2px;
+  padding: 5px 10px;
+  font-size: 0.9em;
+}
+
